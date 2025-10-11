@@ -1,0 +1,17 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+scipy
+joblib
+catboost
+xgboost
+torch
+torchvision
+Pillow
+sentence-transformers
+requests
+dill
+Flask
+#-e .
