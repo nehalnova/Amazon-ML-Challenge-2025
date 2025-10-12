@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 src/catboost_info/
 catboost_info/ 
+extras/
