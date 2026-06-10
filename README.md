@@ -1,4 +1,5 @@
 # ML Challenge 2025 Problem Statement
+My contribution: data preprocessing pipeline, feature engineering, and regression modeling using Scikit-learn on 75k+ product dataset.
 
 ## Smart Product Pricing Challenge
 
